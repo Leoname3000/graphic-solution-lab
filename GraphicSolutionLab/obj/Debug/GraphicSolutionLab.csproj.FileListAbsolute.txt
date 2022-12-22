@@ -1,0 +1,10 @@
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\bin\Debug\GraphicSolutionLab.exe.config
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\bin\Debug\GraphicSolutionLab.exe
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\bin\Debug\GraphicSolutionLab.pdb
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.csproj.AssemblyReference.cache
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.Form.resources
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.Properties.Resources.resources
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.csproj.GenerateResource.cache
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.csproj.CoreCompileInputs.cache
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.exe
+D:\HighLevelProgLabs\GraphicSolutionLab\GraphicSolutionLab\obj\Debug\GraphicSolutionLab.pdb
